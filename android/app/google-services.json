@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "595150129857",
+    "project_id": "gentleflow-firebase",
+    "storage_bucket": "gentleflow-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595150129857:android:afa138df9b023af47d2240",
+        "android_client_info": {
+          "package_name": "tech.gentleflow.firebase.gentleflow_firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595150129857-ustphaprrtcjb32qfjihte5ljmj0ibjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKCOGyh6oYwFWrBIkyuVp8gAPUfXAnd9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595150129857-gpojvvj1qndmenlm1s0b5jbokjf7rvu1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595150129857-14fqd5bk1mrlk8efc55m064ou0pa9j6e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.gentleflow.firebase.gentleflowFirebaseDemo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
